@@ -5,7 +5,7 @@
         - apa kegunaan base_url()?
         - apa kegunaan site_url()?
         - apa beda site_url dan base_url?
-    - apa it input class?
+    - apa itu input class?
         - apa itu $_POST?
         - apa itu HTML form?, apa yang kamu ketahui tentang method dan action?
         - bagaimana menggunakan $this->input->post() ?
