@@ -7,7 +7,7 @@ class Pokemon_model extends CI_Model{
 
     /* Fungsi ini me return semua record yang ada dalam tabel pokemon */
     public function get_all(){
-        return $this->db->get('pokemon')->result();
+        return $this->pokemon_db->get('pokemon')->result();
     }
 
     /* Fungsi ini me return satu record dari tabel pokemon dalam bentuk object. 
