@@ -42,5 +42,6 @@
 * Fork repository ini
 * Tulis nama, nrp dan user name anda di list berikut
     - nama, nrp, user name
+    - Ahmad Syaifullah,141111007,ahmadsyaifullah
 * Kontribusi
 * Ajukan pull request
